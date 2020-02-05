@@ -1,1 +1,1 @@
-Becca's website is available at https://rapprl.github.io
+Becca's website is available at [https://rapprl.github.io](https://rapprl.github.io)

@@ -1,0 +1,34 @@
+---
+title: "Becca the Physicist"
+permalink: /research/
+author_profile: true
+redirect_from: 
+  - /research.html
+---
+
+>"Science makes people reach selflessly for truth and objectivity; it
+ teaches people to accept reality with wonder and admiration, not to
+ mention the deep awe and joy that the natural order of things brings
+ to the true scientist." -- Lise Meitner
+
+I work with the [COHERENT](https://sites.duke.edu/coherent/)
+collaboration, and am interested in the study of coherent elastic
+neutrino-nucleus scattering (CEvNS) at Oak Ridge National Laboratory.
+My research focuses on simulating the neutrino flux from the
+Spallation Neutron Source (SNS), a decay-at-rest neutrino source.  Our
+Geant4 simulation of the SNS has a 10% uncertainty associated with it
+due to a lack of pion production, so we are planning a Cherenkov
+detector to experimentally normalize our neutrino flux.
+
+I have a profound love for the complexity and mystery surrounding
+neutrinos.  Studying CEvNS gives us insight into neutrino properties,
+constrains neutrino-quark interactions beyond the Standard Model,
+highlights properties of nuclear structure such as the neutron skin,
+contributes to our understanding of supernova core collapse, and
+provides an understanding of the "neutrino floor" needed for the next
+generation of WIMP dark matter searches.
+
+In addition to neutrinos and CEvNS, I'm also interested in detector
+response studies and the considerations involved with constructing a
+new experiment.  I've worked on simulations of the MARS detector,
+which monitors the beam-related neutron background from the SNS.

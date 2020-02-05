@@ -1,0 +1,45 @@
+---
+title: "Becca the Physicist"
+permalink: /research/
+author_profile: true
+redirect_from: 
+  - /research.html
+---
+
+>"Science makes people reach selflessly for truth and objectivity; it
+ teaches people to accept reality with wonder and admiration, not to
+ mention the deep awe and joy that the natural order of things brings
+ to the true scientist." -- Lise Meitner
+
+I work with the [COHERENT](https://sites.duke.edu/coherent/)
+collaboration and study coherent elastic neutrino-nucleus scattering
+(CEvNS), a process by which an incoming neutrino hits a target nucleus
+and causes it to recoil as a whole.  Think about throwing a ping-pong
+ball at a bowling ball; we study the ping-pong ball by investigating
+the reaction of the bowling ball!
+
+My specific contributions focus on simulating the neutrino production
+at the Spallation Neutron Source (SNS) at Oak Ridge National
+Laboratory in Tennesee.  The SNS accelerates packets of protons to 1
+GeV, then smashes them into a liquid mercury target.  Think about the
+break shot in a pool game.  You accelerate the cue ball, aim at the
+target, and knock all the individual balls away from the initially
+organized setup.
+
+In our case, the nucleus doesn't break evenly into the protons and
+neutrons making up the nucleus, and we get interesting fragments out
+of the collision.  The most interesting to me are the pions, which are
+a type of meson (a particle made of a quark and an antiquark) that
+have a well-understood decay chain.
+
+Neutrinos are so _weird_!  They're the Studying CEvNS gives us insight into neutrino properties,
+constrains neutrino-quark interactions beyond the Standard Model,
+highlights properties of nuclear structure such as the neutron skin,
+contributes to our understanding of supernova core collapse, and
+provides an understanding of the "neutrino floor" needed for the next
+generation of WIMP dark matter searches.
+
+In addition to neutrinos and CEvNS, I'm also interested in detector
+response studies and the considerations involved with constructing a
+new experiment.  I've worked on simulations of the MARS detector,
+which monitors the beam-related neutron background from the SNS.
