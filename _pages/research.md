@@ -31,7 +31,7 @@ rack, and knock all the individual balls away from the initially
 organized setup.  At the SNS, the proton is the cue ball and the
 nucleus of a single mercury atom is the rack, but our solids and
 stripes are unstable fragments of an atomic nucleus that decay into neutrinos:
-![](rapprl.github.io/images/sns_beam.png)
+![](../images/sns_beam.png)
 
 While my research focuses on how we get neutrinos from the SNS, the
 interests of COHERENT and the CEvNS community are broad and diverse.
