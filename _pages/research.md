@@ -11,6 +11,10 @@ redirect_from:
  mention the deep awe and joy that the natural order of things brings
  to the true scientist." -- Lise Meitner
 
+If you're visiting my website, you've likely heard of particle physics
+at some point in your life.  I am fascinated by the hands-down
+_weirdest_ particle around: the neutrino!
+
 I work with the [COHERENT](https://sites.duke.edu/coherent/)
 collaboration and study coherent elastic neutrino-nucleus scattering
 (CEvNS), a process by which an incoming neutrino hits a target nucleus
@@ -23,18 +27,16 @@ at the Spallation Neutron Source (SNS) at Oak Ridge National
 Laboratory in Tennesee.  The SNS accelerates packets of protons to 1
 GeV, then smashes them into a liquid mercury target.  Think about the
 break shot in a pool game.  You accelerate the cue ball, aim at the
-target, and knock all the individual balls away from the initially
-organized setup.
+rack, and knock all the individual balls away from the initially
+organized setup.  At the SNS, the proton is the cue ball and the
+nucleus of a single mercury atom is the rack, but our solids and
+stripes are unstable fragments of an atomic nucleus that decay into neutrinos:
+![](rapprl.github.io/images/sns_beam.png)
 
-In our case, the nucleus doesn't break evenly into the protons and
-neutrons making up the nucleus, and we get interesting fragments out
-of the collision.  The most interesting to me are the pions, which are
-a type of meson (a particle made of a quark and an antiquark) that
-have a well-understood decay chain.
-
-Neutrinos are so _weird_!  They're the Studying CEvNS gives us insight into neutrino properties,
-constrains neutrino-quark interactions beyond the Standard Model,
-highlights properties of nuclear structure such as the neutron skin,
+While my research focuses on how we get neutrinos from the SNS, the
+interests of COHERENT and the CEvNS community are broad and diverse.
+Precision measurements of CEvNS give us insight into the properties of
+neutrinos, helps us better understand the physics happening in the atomic nucleus,
 contributes to our understanding of supernova core collapse, and
 provides an understanding of the "neutrino floor" needed for the next
 generation of WIMP dark matter searches.

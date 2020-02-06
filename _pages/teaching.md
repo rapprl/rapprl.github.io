@@ -1,12 +1,12 @@
 ---
-title: "Becca the Teacher"
+title: "Becca the Educator"
 permalink: /teaching/
 author_profile: true
 redirect_from: 
   - /teaching.html
 ---
 
-> "We look at science as something very elite, which only a few people can learn.  That's just not true!  You have to start early and give kids a foundation.  Kids live up, or down, to expectations." -- Mae Jemison
+> "It is more fun to talk with someone who doesn't use long, difficult words, but rather short, easy words like, 'What about lunch?'" -- Winnie the Pooh
 
 I've wanted to teach for as long as I can remember, and I'm ecstatic
 to have the knowledge and opportunity to finally do so!
