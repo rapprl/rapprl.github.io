@@ -9,6 +9,9 @@ redirect_from:
   - /about.html
 ---
 
+> "Who in the world am I? Ah, that’s the great puzzle." -- Lewis
+  Caroll, Alice's Adventures in Wonderland
+
 Hello, visitor!  My name is Rebecca Rapp, but I mostly go by Becca.
 Or Berc.  (Not Becky.)  I'm a third-year graduate student in the
 Medium Energy Group at Carnegie Mellon University.  I work with Diana
