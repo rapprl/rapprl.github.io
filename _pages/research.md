@@ -6,10 +6,7 @@ redirect_from:
   - /research.html
 ---
 
->"Science makes people reach selflessly for truth and objectivity; it
- teaches people to accept reality with wonder and admiration, not to
- mention the deep awe and joy that the natural order of things brings
- to the true scientist." -- Lise Meitner
+> "Welcome to the nerd lab." -- GoGo Tomago (Big Hero 6)
 
 If you're visiting my website, you've likely heard of particle physics
 at some point in your life.  I am fascinated by the hands-down
