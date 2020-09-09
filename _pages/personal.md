@@ -1,53 +1,53 @@
 ---
-title: "I'm a human, too!"
+title: "All about Berc"
 permalink: /about_me/
 author_profile: true
 redirect_from: 
   - /personal.html
 ---
 
-> "The things that make me different are the things that make me _me_." -- Piglet
+> “Our heritage and ideals, our code and standards - the things we live
+by and teach our children - are preserved or diminished by how freely
+we exchange ideas and feelings.” -- Walt Disney
 
 I'm a born and bred Pittsburgher, from a big and wonderful family.  I
-grew up in Forward Township, where I annoyed the heck out of my older
-sisters and was driven thoroughly insane by my little brother.  My
-parents and grandparents are huge sources of inspiration for me, and
-I'm thankful for the work-ethic, love of learning, and phenomenal soft
-skills I've inherited from them.  My aunts, uncles, and many cousins
-complete the loving community from which I have grown and learned to
-thrive.  I am truly privilged to have had so many people in my corner.
+grew up in Forward Township (adjacent to Monongahela, PA), where I
+annoyed the heck out of my older sisters and was driven thoroughly
+insane by my little brother.  My parents and grandparents are huge
+sources of inspiration for me, and I've certainly inherited their
+work-ethic and love of learning, among other soft skills.  My aunts,
+uncles, and cousins galore complete the loving community from which I
+have grown and learned to thrive.  I am truly privileged with a large
+and fantastic support system.
 
-I grew up playing softball [badly], watching all the black and gold
-sports my city has to offer, playing video games, reading everything I
-could find, and watching _all_ the Disney movies.  (You might be able
-to tell that I still love Disney moves [hence all the quotes].  My
-current favorites are Treasure Planet, Big Hero 6, and Lilo & Stitch).
+Perhaps the most influential part of my early life was my eldest
+sister, who has cerebral palsy.  My formative years had that
+additional layer of thinking about someone else -- making sure that
+she wasn't excluded just because her needs and capabilities were
+different.  I didn't always do this well, and I still don't!  But I
+will always try.
 
-My academic experience has been riddled with _phenomenal_ educators.
-I attended the Elizabeth Forward School District, and though it is not
-wealthy, I was never without opportunity to grow.  There are several
-habits I have to this day that come directly from my algebra,
-calculus, and physics courses.  The quick-writing skills we honed in
-high school english have also served me well.  I am a huge band geek,
-and I play the saxophone and mallet percussion.  I hadn't realized how
-well being in marching band prepared me to lead organizational efforts
-in my career at the time, but they sure come in handy!
+Here's some other facts about me that I think are share-worthy:
 
-After graduating high school, I attended Washington & Jefferson
-College, and found a sense of academic kinship that I hadn't realized
-I'd been missing.  Perhaps the biggest influence on my adult life has
-been Mike McCracken, the chair of W&J's physics program.  Under his
-guidance, I've learned to be unapologetically myself, to serve as a
-mentor to others, and to let myself _relax_.
+*I really enjoy Disney movies, but the princess ones are my least
+favorite.  My sister even made me a Scrump (Lilo & Stitch).  I listed
+this first in case you were concerned about all of the Disney quotes
+populating my website : ).
 
-Now, I'm a 3rd year graduate student at Carnegie Mellon University,
-and I couldn't be happier with my choice of graduate program.  The
-department is welcoming, there is extensive opportunity to get
-involved or support to start activities that don't already exist, and
-the breadth of research is fantastic for our smaller department.  I
-think the best part of my choice has been the opportunity to work with
-Diana Parno, though.  Not only is she actively involved in research,
-outreach, and the community of the department, she makes substantial
-contributions to physics without sacrficing her work/life balance.  As
-a mentor for balancing a career and a life in academic phyics, I could
-not have dreamed up a better or more supportive advisor.
+*I really love musicals, sing-a-longs, and long car rides where I can
+ scream-sing my own personal soundtrack.
+
+*I play saxophone, mallet percussion, a smidge of piano, and an even
+smaller smidge of trombone.
+
+*I cannot work in silence.  Must have music.  Usually, it's some sort
+ of instrumental playlist filled with movie scores, video game
+ soundtracks, classical pieces, etc.
+
+*I play softball!  Not well, but I really enjoy it.  I'm a decent
+ first basewoman, but my playing abilities have really been hindered
+ by a lack of depth perception.
+
+*I can only see out of one eye (my left one)!  (Hence the lack of
+ depth perception -- no parallaxing!)  I dream of one day having a
+ robotic eye...just kidding...sort of...
