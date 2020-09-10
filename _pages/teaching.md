@@ -1,16 +1,15 @@
 ---
-title: "Becca the Educator"
+title: "Becca the TA"
 permalink: /teaching/
 author_profile: true
 redirect_from: 
   - /teaching.html
 ---
 
-> "It is more fun to talk with someone who doesn't use long, difficult words, but rather short, easy words like, 'What about lunch?'" -- Winnie the Pooh
+> "When you are a bear of very little brain, and you think of things,
+  you find sometimes that a thing which seemed very thinkish inside
+  you is quite different when it gets out into the open and has other
+  people looking at it." -- Winnie the Pooh
 
-I've wanted to teach for as long as I can remember, and I'm ecstatic
-to have the knowledge and opportunity to finally do so!
 
-am a proud graduate of the Elizabeth Forward School District.
-My fondest memories of my undergraduate degree were within the walls of the Swanson Science Center of Washington & Jefferson College.
-
+Site still under construction -- more to come here : )
