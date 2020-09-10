@@ -6,9 +6,7 @@ redirect_from:
   - /personal.html
 ---
 
-> “Our heritage and ideals, our code and standards - the things we live
-by and teach our children - are preserved or diminished by how freely
-we exchange ideas and feelings.” -- Walt Disney
+> “Growing old is mandatory, but growing up is optional.” -- Walt Disney
 
 I'm a born and bred Pittsburgher, from a big and wonderful family.  I
 grew up in Forward Township (adjacent to Monongahela, PA), where I
@@ -29,25 +27,27 @@ will always try.
 
 Here's some other facts about me that I think are share-worthy:
 
-*I really enjoy Disney movies, but the princess ones are my least
-favorite.  My sister even made me a Scrump (Lilo & Stitch).  I listed
-this first in case you were concerned about all of the Disney quotes
-populating my website : ).
+- I am obsessed with red pandas.  Did you know they spray like skunks?!
 
-*I really love musicals, sing-a-longs, and long car rides where I can
+- I really enjoy Disney movies, but the princess ones are my least
+favorite.  (This might explain all the quotes populating my website
+haha.)
+
+- I really love musicals, sing-a-longs, and long car rides where I can
  scream-sing my own personal soundtrack.
 
-*I play saxophone, mallet percussion, a smidge of piano, and an even
+- I play saxophone, mallet percussion, a smidge of piano, and an even
 smaller smidge of trombone.
 
-*I cannot work in silence.  Must have music.  Usually, it's some sort
+- I cannot work in silence.  Must have music.  Usually, it's some sort
  of instrumental playlist filled with movie scores, video game
  soundtracks, classical pieces, etc.
 
-*I play softball!  Not well, but I really enjoy it.  I'm a decent
+- I play softball!  Not well, but I really enjoy it.  I'm a decent
  first basewoman, but my playing abilities have really been hindered
  by a lack of depth perception.
 
-*I can only see out of one eye (my left one)!  (Hence the lack of
+- I can only see out of one eye (my left one)!  (Hence the lack of
  depth perception -- no parallaxing!)  I dream of one day having a
  robotic eye...just kidding...sort of...
+
