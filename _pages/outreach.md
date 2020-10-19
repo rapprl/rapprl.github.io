@@ -19,7 +19,7 @@ and I've idolized some truly terrific mentors, but I haven't really
 *seen* me as a physicist.  Outreach gives me the chance to be that
 person for someone else, and to share my passion for physics with
 people who may not realize some of the exciting things we do or that
-it's a discipline that opens so many doors.  It's also incredibly fun...
+it's a discipline that opens so many doors.  (It's also incredibly fun...)
 
 2. Science is best when there are different problem-solving
 approaches, numerous backgrounds to spot potential problems with a
@@ -38,3 +38,6 @@ on why science should and must be trusted.
 
 The rest of this page will be populated with blog-style posts from
 outreach events I engage with as they happen!
+
+
+[January 17 - 19, 2020: PghCUWiP](pghcuwip)
