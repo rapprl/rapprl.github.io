@@ -27,27 +27,33 @@ will always try.
 
 Here's some other facts about me that I think are share-worthy:
 
+- I'm learning to crochet!  It keeps my hands busy during long days of
+  Zoom meetings.  I successfully made a few headbands and a scarf, but
+  when I changed yarn colors in the scarf I was always off by a
+  stitch...hmm.
+
 - I am obsessed with red pandas.  Did you know they spray like skunks?!
 
 - I really enjoy Disney movies, but the princess ones are my least
 favorite.  (This might explain all the quotes populating my website
-haha.)
+haha...)
 
 - I really love musicals, sing-a-longs, and long car rides where I can
  scream-sing my own personal soundtrack.
 
 - I play saxophone, mallet percussion, a smidge of piano, and an even
-smaller smidge of trombone.
+smaller smidge of trombone.  In case it's not obvious, I was
+(...am...) a band geek!
 
 - I cannot work in silence.  Must have music.  Usually, it's some sort
  of instrumental playlist filled with movie scores, video game
  soundtracks, classical pieces, etc.
 
-- I play softball!  Not well, but I really enjoy it.  I'm a decent
+- I play softball!  Not well, but I really enjoy it.  I'm a somewhat decent
  first basewoman, but my playing abilities have really been hindered
  by a lack of depth perception.
 
-- I can only see out of one eye (my left one)!  (Hence the lack of
- depth perception -- no parallaxing!)  I dream of one day having a
- robotic eye...just kidding...sort of...
+- I can only see out of one eye (hence the lack of depth perception --
+ no parallaxing)!  Maybe one day I'll get a robotic eye...ah, the
+ possibilities.
 
