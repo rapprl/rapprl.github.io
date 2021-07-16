@@ -6,7 +6,7 @@ redirect_from:
   - /research.html
 ---
 
-> "Welcome to the nerd lab." -- GoGo Tomago
+> "Welcome to the nerd lab." -- GoGo Tomago (Big Hero 6)
 
 Physics is broken down into several subfields, and I classify as an
 "experimental nuclear/particle physicist".  We use cutting-edge
