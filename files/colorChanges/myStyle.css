@@ -1,0 +1,60 @@
+/* THIS IS MY CSS COMMENT */
+
+header {
+    font-family: Arial;
+    background-color: coral;
+    padding:3px;
+    border-style: solid;
+    margin: 5px;
+    width:70%;
+}
+
+figure{
+    position:absolute;
+    top:70px;
+    right:300px;
+}
+
+header ul{
+  text-align:right;
+}
+
+header li {
+  display:inline;
+  margin: 5px;
+}
+
+body.myClass {
+  color:coral;
+}
+
+h1, h2, h3{
+    color:#e00087;
+    margin:1px;
+}
+
+#overview{
+    color:#b3a61b;
+}
+
+div{
+    overflow:auto;
+    width:97%;
+    background-color: cyan;
+    margin:1%;
+}
+
+div.floating p{
+    width:28%;
+    float:left;
+    margin:1%;
+    padding:1%;
+    border: dashed black 3px;
+}
+
+dl{
+    position:fixed;
+    top:0%;
+    right:0%;
+    z-index:-5;
+}
